@@ -1,2 +1,0 @@
-- Hi, I’m Damnjan Cosic
-- I’m currently learning Java
